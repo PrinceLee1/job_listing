@@ -8,6 +8,24 @@
       "expo-router"
     ],
     "name": "job_list_mobile_app",
-    "slug": "job_list_mobile_app"
+    "slug": "job_list_mobile_app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1df5f168-eb1d-4336-ace8-0bcdcbdb6c88"
+      }
+    },
+    "android": {
+      "package": "com.princelee.job_list_mobile_app"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1df5f168-eb1d-4336-ace8-0bcdcbdb6c88"
+    },
+    "ios": {}
   }
 }
