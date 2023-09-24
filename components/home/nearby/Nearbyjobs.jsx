@@ -13,7 +13,6 @@ const Nearbyjobs = () => {
       num_pages: 1,
       date_posted: 'today'
   }); 
-  console.log(data)
 
   return (
     <View style={styles.container}>
